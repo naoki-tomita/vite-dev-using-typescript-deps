@@ -1,0 +1,17 @@
+{
+  "name": "vite-dev-using-typescript-deps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "vite-dev-typescript-deps": "git+ssh://git@github.com:naoki-tomita/vite-dev-typescript-deps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
